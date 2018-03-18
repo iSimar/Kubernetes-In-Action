@@ -1,0 +1,1 @@
+Original repo from the author: https://github.com/luksa/kubernetes-in-action
